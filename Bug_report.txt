@@ -1,16 +1,17 @@
+Bug_report
 bug_id: 1
-description: 
+Description: 
 LogIn button is not responsive at the logIn page
-Preconditions: 1.go to https://guns.ru/login
-               2.first name - jo  
-               3.last name - peshie 
-Steps to reproduse:               
-STR_1: Fill out the 'first name' plaseholder with valid data
-STR_2: Fill out the 'last name name' plaseholder with valid data
-STR_3: Click login button
-Expected result:
+Preconditions:
+1.go to https://guns.ru/login
+2.first name - jo
+3.last name - peshie
+Steps_to_reproduce:
+1.Fill out the 'first name' plaseholder with valid data
+2.Fill out the 'last name name' plaseholder with valid data
+3.Click login button
+Expected result: 
 User navigates to the main page
-Actual result: 
+Actual result:
 User stays on the login page
-Enviroment:
-OS - Windows11, Browser - Chrome Version 102.0.5005.61 (Official Build) (64-bit)
+Enviroment os - Windows11, browses - Chrome Version 102.0.5005.61 (Official Build) (64-bit)
