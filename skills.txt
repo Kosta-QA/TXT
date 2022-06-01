@@ -1,0 +1,11 @@
+data
+skill_1: Postman
+skill_2: jmeter
+skill_3: CheckLists
+skill_4: Bug Reports
+skill_5: SQL
+skill_6: Charles Proxy
+skill_7: Mobile testing
+skill_8: WEB testing
+
+
