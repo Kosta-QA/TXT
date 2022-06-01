@@ -1,0 +1,8 @@
+data:
+Person_id: 1
+name: Konstantin
+last_name: Subbotnikov
+age: 37
+work_experience: uTest, GeekBrains project
+income: 45.000$
+
